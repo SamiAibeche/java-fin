@@ -1,5 +1,4 @@
-
-/* 
+/*
   Example of basic datas structure
 
 Int myAge = 32;               // Integer (whole number)
@@ -49,6 +48,7 @@ do {
 
 public class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("Hello, You!"); 
+
+        System.out.println("Hello, You!");
     }
 }
